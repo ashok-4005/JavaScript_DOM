@@ -11,4 +11,4 @@ There is button labeled as Done which once clicked will remove the corresponding
 
 This is how the project works, through this i have explored the operations of DOM...
 
-![Output_ScreenShot](ouput.png)
+![Output Screenshot](output.png)
